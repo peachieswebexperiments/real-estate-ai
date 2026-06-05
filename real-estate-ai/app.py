@@ -216,7 +216,7 @@ VISUAL RULES
 - Realistic speaking behavior
 - Realistic hand movement
 - Realistic lip synchronization
-
+-Realistic skin texture and poresdescription in veo prompt 
 ==================================================
 OUTPUT FORMAT
 ==================================================
