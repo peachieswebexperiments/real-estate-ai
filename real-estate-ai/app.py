@@ -5,8 +5,7 @@ from google import genai
 # CONFIG
 # ==========================================
 
-GEMINI_API_KEY = st.secrets["AIzaSyDpLzBTLME8kjaog1Uy8JZelSpkoP31BWY"]
-
+GEMINI_API_KEY = st.secrets["GEMINI_API_KEY"]
 # ==========================================
 # PAGE
 # ==========================================
